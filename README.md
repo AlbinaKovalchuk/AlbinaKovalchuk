@@ -1,9 +1,5 @@
 ###     ✨   Hello, word!👋 My name is Albina Kovalchuk.  ✨ 
 ### I`m Front-end Developer <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="60px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a>
-
-
-
-
   
  
  🔭 I’m currently learning  JavaScript, React, Node.js
@@ -39,6 +35,11 @@
 </td></tr></table>  
 <br/>  
 
+## Team projects    
+-   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a>
+-  web hunter
+
+
 
 ## Connect with me  
 <div align="center">
@@ -58,7 +59,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlbinaKovalchuk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 <br/>  
 
