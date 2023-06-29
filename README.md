@@ -6,7 +6,7 @@
  
  🌱 I’m looking for a position of Junior Front End Developer
  
- 📫 You can write me at email: albinakovalchukk@ukr.net
+ 📫 You can write me at email:  <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a> 
  
  🔥 See my  <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> portfolio at my repositories </a>
  
