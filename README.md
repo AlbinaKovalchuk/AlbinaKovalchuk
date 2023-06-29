@@ -1,16 +1,22 @@
-###  ✨ Hello, word!👋 My name is Albina Kovalchuk.✨ 
-### I`m Junior Front-end Developer.<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a>
+###     ✨   Hello, word!👋 My name is Albina Kovalchuk.  ✨ 
+### I`m Front-end Developer <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="60px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a>
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning  JavaScript, React.
-- ⚡  I’m looking for a position of Junior Front End Developer
-- 📫 How to reach me: albinakovalchukk@ukr.net
-- 👯 See my portfolio at my repositories <a href="https://github.com/AlbinaKovalchuk"> </a>
+  
+ 
+ 🔭 I’m currently learning  JavaScript, React, Node.js
+ 
+ 🌱 I’m looking for a position of Junior Front End Developer
+ 
+ 📫 You can write me at email: albinakovalchukk@ukr.net
+ 
+ 🔥 See my  <a href="https://github.com/AlbinaKovalchuk"> portfolio at my repositories </a>
+ 
+ 👯 It`s <a href="https://github.com/AlbinaKovalchuk"> MY Resume  </a>  
     
-- 😄 Fun fact: ...
+- 😄 ⚡ Fun fact: I’m  working ......
 - 💬 Ask me about ...
 
 
@@ -35,10 +41,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/AlbinaKovalchuk" target="_blank">
+<a href="https://github.com/AlbinaKovalchuk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/albinakovalchuck" target="_blank">
+<a href="https://linkedin.com/in/albinakovalchuck" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>	
 </div>  
