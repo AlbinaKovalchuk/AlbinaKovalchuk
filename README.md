@@ -12,7 +12,7 @@
  
  📫 You can write me at email: albinakovalchukk@ukr.net
  
- 🔥 See my  <a href="https://github.com/AlbinaKovalchuk"> portfolio at my repositories </a>
+ 🔥 See my  <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> portfolio at my repositories </a>
  
  👯 It`s <a href="https://github.com/AlbinaKovalchuk"> MY Resume  </a>  
     
