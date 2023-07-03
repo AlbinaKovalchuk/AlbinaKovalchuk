@@ -33,7 +33,11 @@
 
 </td><td valign="top" width="33%">
 </td></tr></table>  
-<br/>  
+<br/> 
+
+## My projects  
+-   <a href="https://github.com/AlbinaKovalchuk/WEB-Studio"> WEB Studio </a> 
+-  web hunter
 
 ## Team projects    
 -   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a> (my part of the project/I made a section) <a href="https://one-lov-e.github.io/stalk/blog.html"> Blog </a>
