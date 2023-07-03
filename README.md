@@ -36,7 +36,7 @@
 <br/> 
 
 ## My projects  
--   <a href="https://github.com/AlbinaKovalchuk/WEB-Studio"> WEB Studio </a> 
+-   <a href="https://albinakovalchuk.github.io/WEB-Studio/"> WEB Studio </a> <a href="https://github.com/AlbinaKovalchuk/WEB-Studio"> [ GIT ] </a> 
 -  web hunter
 
 ## Team projects    
