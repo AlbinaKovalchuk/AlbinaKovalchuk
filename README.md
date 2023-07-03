@@ -4,7 +4,7 @@
  
  🔭 I’m currently learning  JavaScript, React, Node.js
  
- 🌱 I’m looking for a position of Junior Front End Developer
+ 🌱 I’m looking for a position of Junior Front End Developer    
  
  📫 You can write me at email:  <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a> 
  
