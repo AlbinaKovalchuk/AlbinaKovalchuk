@@ -36,7 +36,7 @@
 <br/>  
 
 ## Team projects    
--   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a>
+-   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a> I made a section /my part of the project <a href="https://one-lov-e.github.io/stalk/blog.html"> Blog </a>
 -  web hunter
 
 
