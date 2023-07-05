@@ -2,11 +2,12 @@
 ### I`m Front-end Developer <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="60px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a>
   
  
- 🔭 I’m currently learning  JavaScript, React, Node.js
+ 🔭 I’m currently learning  HTML5/ CSS3/ SASS /JavaScript 
+    and  React, Node.js
  
  🌱 I’m looking for a position of Junior Front End Developer    
  
- 📫 You can write me at email:  <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a> 
+ 📫 You can write me at email:  <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a>  or   <a href="https://linkedin.com/in/albinakovalchuck" target="_blank"> Linkedin </a>
  
  🔥 See my  <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> portfolio at my repositories </a>
  
@@ -36,7 +37,7 @@
 <br/> 
 
 ## My projects  
--   <a href="https://albinakovalchuk.github.io/WEB-Studio/"> WEB Studio </a>  [ <a href="https://github.com/AlbinaKovalchuk/WEB-Studio">     GIT  </a> ]
+-   <a href="https://albinakovalchuk.github.io/WEB-Studio/"> WEB Studio </a>  [ <a href="https://github.com/AlbinaKovalchuk/WEB-Studio"> GIT </a> ]
 -  
 
 ## Team projects    
