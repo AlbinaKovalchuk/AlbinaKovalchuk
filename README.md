@@ -3,7 +3,8 @@
   
  
  🔭 I’m currently learning  HTML5/ CSS3/ SASS /JavaScript 
-    and  React, Node.js
+ 
+ 💬 I'm going to learn and  React, Node.js
  
  🌱 I’m looking for a position of Junior Front End Developer    
  
@@ -14,7 +15,6 @@
  👯 It`s <a href="https://github.com/AlbinaKovalchuk"> MY Resume  </a>  
 <!---    
 - 😄 ⚡ Fun fact: I’m  working ......
-- 💬 Ask me about ...
  -->
 
 ## My Skills   
