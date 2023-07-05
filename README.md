@@ -11,10 +11,10 @@
  🔥 See my  <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> portfolio at my repositories </a>
  
  👯 It`s <a href="https://github.com/AlbinaKovalchuk"> MY Resume  </a>  
-    
+<!---    
 - 😄 ⚡ Fun fact: I’m  working ......
 - 💬 Ask me about ...
-
+ -->
 
 ## My Skills   
 
@@ -36,11 +36,11 @@
 <br/> 
 
 ## My projects  
--   <a href="https://albinakovalchuk.github.io/WEB-Studio/"> WEB Studio </a> <a href="https://github.com/AlbinaKovalchuk/WEB-Studio"> [ GIT ] </a> 
--  web hunter
+-   <a href="https://albinakovalchuk.github.io/WEB-Studio/"> WEB Studio </a>  [ <a href="https://github.com/AlbinaKovalchuk/WEB-Studio">     GIT  </a> ]
+-  
 
 ## Team projects    
--   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a> (my part of the project/I made a section) <a href="https://one-lov-e.github.io/stalk/blog.html"> Blog </a>
+-   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a> (my part of the project/I made a section <a href="https://one-lov-e.github.io/stalk/blog.html"> Blog </a> )
 -  web hunter
 
 
