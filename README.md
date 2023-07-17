@@ -8,7 +8,7 @@
  
  🌱 I’m looking for a position of Junior Front End Developer    
  
- 📫 You can write me at email:  <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a>  or   <a href="https://linkedin.com/in/albinakovalchuck" target="_blank"> Linkedin </a>
+ 📫 You can write me at email: <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a> or <a href="https://linkedin.com/in/albinakovalchuck" target="_blank"> Linkedin </a> or <a href="https://t.me/+380982614990" target="_blank"> Telegram </a> 
  
  🔥 See my  <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> portfolio at my repositories </a>
  
@@ -54,6 +54,10 @@
 <a href="https://linkedin.com/in/albinakovalchuck" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>	
+<a href="https://t.me/+380982614990" target="_blank">
+<!-- <img src /> -->
+</a>
+  
 </div>  
   
 
