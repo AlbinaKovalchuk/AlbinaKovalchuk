@@ -12,7 +12,7 @@
  
  🔥 See my  <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> portfolio at my repositories </a>
  
- 👯 It`s <a href="https://github.com/AlbinaKovalchuk"> MY Resume  </a>  
+ 👯 It`s <a href="https://albinakovalchuk.github.io/MyResume/"> MY Resume  </a>  
 <!---    
 - 😄 ⚡ Fun fact: I’m  working ......
  -->
