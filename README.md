@@ -42,7 +42,7 @@
 
 ## Team projects    
 -   <a href="https://one-lov-e.github.io/stalk/index.html"> SHOP FOR GAMERS </a> 
--   <a href=""> Web News </a> 
+-   <a href=""> Web News </a> [ <a href="https://github.com/MaksymKonin/project02-news"> GIT </a> ]
 
 
 
