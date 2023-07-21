@@ -10,7 +10,7 @@
  
  📫 You can write me at email: <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a> or <a href="https://linkedin.com/in/albinakovalchuck" target="_blank"> Linkedin </a> or <a href="https://t.me/+380982614990" target="_blank"> Telegram </a> 
  
- 🔥 See my portfolio <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> at my repositories </a>
+ 🔥 See my portfolio at <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> my repositories </a>
  
  👯 It`s <a href="https://albinakovalchuk.github.io/MyResume/"> MY Resume  </a>  
 <!---    
