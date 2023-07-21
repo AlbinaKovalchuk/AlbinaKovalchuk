@@ -41,7 +41,7 @@
 -   <a href=""> Barbershop </a>  [ <a href=""> GIT </a> ]
 
 ## Team projects    
--   <a href=""> SHOP FOR GAMERS </a>  [ <a href="https://one-lov-e.github.io/stalk/index.html"> GIT </a> ]
+-   <a href=""> SHOP FOR GAMERS </a>  [ <a href="https://github.com/one-lov-e/stalk"> GIT </a> ]
 -   <a href=""> Web News </a> [ <a href="https://github.com/MaksymKonin/project02-news"> GIT </a> ]
 
 
