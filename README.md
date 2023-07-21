@@ -41,8 +41,8 @@
 -   <a href=""> Barbershop </a>  [ <a href=""> GIT </a> ]
 
 ## Team projects    
--   <a href=""> SHOP FOR GAMERS </a>  [ <a href="https://github.com/one-lov-e/stalk"> GIT </a> ]
--   <a href=""> Web News </a> [ <a href="https://github.com/MaksymKonin/project02-news"> GIT </a> ]
+-   <a href="https://one-lov-e.github.io/stalk/"> SHOP FOR GAMERS </a>  [ <a href="https://github.com/one-lov-e/stalk"> GIT </a> ]
+-   <a href="https://maksymkonin.github.io/project02-news/"> Web News </a> [ <a href="https://github.com/MaksymKonin/project02-news"> GIT </a> ]
 
 
 
