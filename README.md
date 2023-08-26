@@ -2,15 +2,15 @@
 ### I`m Junior Front-end Developer <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="60px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"></a>
   
  
- 🔭 I’m currently learning  HTML5/ CSS3/ SASS /JavaScript 
+ 📚 I’m currently learning  HTML5/ CSS3/ SASS /JavaScript 
  
- 💬 I'm going to learn and  React, Node.js
+ 📖 I'm going to learn and React, Node.js
  
- 🌱 I’m looking for a position of Junior Front End Developer    
+ 👀 I’m looking for a position of Junior Front End Developer 🌱    
  
  📫 You can write me at email: <a href="https://mail.ukr.net/"> albinakovalchukk@ukr.net </a> or <a href="https://linkedin.com/in/albinakovalchuck" target="_blank"> Linkedin </a> or <a href="https://t.me/+380982614990" target="_blank"> Telegram </a> 
  
- 🔥 See my portfolio at <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> my repositories </a>
+ 👜 See my portfolio at <a href="https://github.com/AlbinaKovalchuk?tab=repositories"> my repositories </a>
  
  👯 It`s <a href="https://albinakovalchuk.github.io/MyResume/"> my Resume  </a>  
 <!---    
