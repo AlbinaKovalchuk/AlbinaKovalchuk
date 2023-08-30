@@ -38,6 +38,7 @@
 
 ## My projects  
 -   <a href="https://albinakovalchuk.github.io/WEB-Studio/"> WEB Studio </a>  [ <a href="https://github.com/AlbinaKovalchuk/WEB-Studio"> GIT </a> ]
+-   <a href="https://albinakovalchuk.github.io/barbershop/"> Barbershop </a>  [ <a href="https://albinakovalchuk.github.io/barbershop/"> GIT </a> ]
 
 
 ## Team projects    
